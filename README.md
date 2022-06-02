@@ -1,16 +1,14 @@
-### Hi there 👋
+# jackssrt
 
-<!--
-**jackssrt/jackssrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Chat with me on discord: <@304603833248514048>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jackssrt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackssrt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ```
+     __               __                            __   
+    |__|____    ____ |  | __  ______ ______________/  |_ 
+    |  \__  \ _/ ___\|  |/ / /  ___//  ___/\_  __ \   __\
+    |  |/ __ \\  \___|    <  \___ \ \___ \  |  | \/|  |  
+/\__|  (____  /\___  >__|_ \/____  >____  > |__|   |__|  
+\______|    \/     \/     \/     \/     \/               
+``` -->
