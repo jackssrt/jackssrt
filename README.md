@@ -1,6 +1,6 @@
 # jackssrt
 
-💬 Chat with me on discord: <@304603833248514048>
+💬 Chat with me on discord: @jackssrt
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jackssrt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackssrt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
